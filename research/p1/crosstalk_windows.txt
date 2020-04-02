@@ -1,0 +1,5 @@
+
+explore wmi-exporter code :https://github.com/martinlindhe/wmi_exporter
+
+wmi_net_bytes_received_total
+wmi_net_bytes_sent_total

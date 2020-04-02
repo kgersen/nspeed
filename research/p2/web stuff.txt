@@ -1,0 +1,5 @@
+font: https://rsms.me/inter/
+
+style: https://tailwindcss.com/
+
+framework: https://svelte.dev/
