@@ -1,0 +1,8 @@
+cpu load:
+
+https://github.com/shirou/gopsutil
+
+crosstalk:
+
+todo
+
