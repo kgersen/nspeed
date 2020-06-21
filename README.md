@@ -1,4 +1,4 @@
-## nspeed
+## NSpeed
 NSpeed project
 
 #Design phase
